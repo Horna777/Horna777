@@ -1,3 +1,5 @@
+
+Hola!!!, I'm Jaime Horna👋.
 # 💫 About Me:
 🐱‍💻 Hi, I currentrly work as a freelance.<br>👀 I’m interested in the development of video games and Apps.<br>🌱 I’m currently studying as a full-stack developer.<br>💞️ I’m looking to collaborate on You Tube.<br>📫 How to reach me horna2279@gmail.com
 
